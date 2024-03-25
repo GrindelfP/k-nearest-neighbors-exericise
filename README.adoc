@@ -1,0 +1,9 @@
+= K-Nearest Neighbors excercise =
+
+A small exercise on understanding of concept of K-Nearest Neighbors algorithm. The exercise follows this steps:
+1. create 3 groups of 140 2-dimentional points on a 2-dimentional plane
+2. experiment with cluster standart coefficients
+3. develop a function implementing K-Nearest Neighbors algorithm
+4. test the function on some additional points and show them on the plane
+
+The task is done using Google Colab.
